@@ -1,4 +1,4 @@
-##### Cloud Native Development Grows Up
+#### Cloud Native Development Grows Up
 
 When we book an airline ticket, apply for a new passport, access our insurance documents or bank account, we're relying on software built by enterprise developers in corporate labs in cities around the world.
 
@@ -10,16 +10,16 @@ Enterprise developers are often pressed for time to learn on the job. Even if th
 
 Here is a collection of code patterns, articles and tutorials that gently introduce the concepts of Cloud Pak for Apps as a smart, disciplined and consistent approach to creating cloud native applications in the enterprise.
 
-###### Navigating Developer Discovery Material
+##### Navigating Developer Discovery Material
 
 
 
-###### Anatomy of Cloud Paks for Apps
+##### Anatomy of Cloud Paks for Apps
 
 _would like to include a visual_
 
 
-###### Building With Appsody For Consistent Results
+##### Building With Appsody For Consistent Results
 
 What is Appsody
 
