@@ -10,13 +10,11 @@ Enterprise developers are often pressed for time to learn on the job. Even if th
 
 Here is a collection of code patterns, articles and tutorials that gently introduce the concepts of Cloud Pak for Apps as a smart, disciplined and consistent approach to creating cloud native applications in the enterprise.
 
-##### Navigating Developer Discovery Material
+##### Kabanero development technologies
 
+Cloud Paks for Applications is built on an open source foundational layer called 'Kabanero'. The technologies that Kabanero is composed of are accepted best in class cloud technologies, themselves all open source. You can see a graphical representation of a lot of the included technologies below:
 
-
-##### Anatomy of Cloud Paks for Apps
-
-_would like to include a visual_
+![Kabanero Architecture](kabanero.png)
 
 
 ##### Building With Appsody For Consistent Results
