@@ -1,6 +1,6 @@
 ### Cloud Native Development Grows Up
 
-When we book an airline ticket, apply for a new passport, access our insurance documents or bank account, we're relying on software built by enterprise developers in corporate labs in cities around the world.
+When we book an airline ticket, apply for a new passport, access our insurance documents or bank account, we're typically relying on software built by enterprise developers in corporate labs in cities around the world.
 
 Enterprise developers are busy people. Customer's [expectations are higher than they've ever been](https://www.gartner.com/en/newsroom/press-releases/2019-04-04-gartner-says-the-future-of-app-development-is-multiex) for fast, mobile, and secure access to information. We already accept that microservices, and cloud based solutions offer the only real flexible, scalable future for the enterprise. Yet [only 20% of enterprise software has moved to the cloud](https://www.ibm.com/blogs/cloud-computing/2019/03/05/20-percent-cloud-transformation/).
 
