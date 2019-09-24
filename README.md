@@ -10,7 +10,11 @@ Enterprise developers are often pressed for time to learn on the job. Even if th
 
 [Cloud Pak for Applications](https://www.ibm.com/cloud/cloud-pak-for-applications) aims to clear some of the mystery around Cloud Native development by firstly bundling the best in class libraries and frameworks for developing secure, fast and scalable solutions, and secondly by instilling customizable and consistent access to frameworks approved by an organization.
 
-Here is a collection of code patterns, articles and tutorials that gently introduce the concepts of Cloud Pak for Apps as a smart, disciplined and consistent approach to creating cloud native applications in the enterprise.
+![Kabanero Architecture](cp4a.png)
+
+Cloud Paks for Applications contains a few big components, one of which is Kabanero - a collection of best practice cloud native tools and libraries.
+
+We're introducing a new collection of code patterns, articles and tutorials that gently introduce the concepts of Kabanero within Cloud Pak for Apps as a smart, disciplined and consistent approach to creating cloud native applications in the enterprise.
 
 #### Kabanero development technologies
 
