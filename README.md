@@ -1,4 +1,4 @@
-#### Cloud Native Development Grows Up
+### Cloud Native Development Grows Up
 
 When we book an airline ticket, apply for a new passport, access our insurance documents or bank account, we're relying on software built by enterprise developers in corporate labs in cities around the world.
 
@@ -10,7 +10,7 @@ Enterprise developers are often pressed for time to learn on the job. Even if th
 
 Here is a collection of code patterns, articles and tutorials that gently introduce the concepts of Cloud Pak for Apps as a smart, disciplined and consistent approach to creating cloud native applications in the enterprise.
 
-##### Kabanero development technologies
+#### Kabanero development technologies
 
 Cloud Paks for Applications is built on an open source foundational layer called [Kabanero](https://kabanero.io/). The technologies that Kabanero is composed of are accepted best in class cloud technologies, themselves all open source. You can see a graphical representation of many of the important technologies below:
 
@@ -20,7 +20,7 @@ One of the special ingredients in Kabanero is [Appsody](https://appsody.dev/) wh
 
 Our approach to creating developer resources around Kabanero, and Cloud Paks for Apps is to focus on workflows using this cloud devops components - providing tutorials around them, and code patterns that can be cloned and explored as reference models. In our first collection of developer resources, we're sharing an Appsody code pattern that walks through the basics of creating a two microservice application - with presentation and business logic, as well as digging into approaches for using Appsody in your own projects.
 
-##### Building With Appsody For Consistent Results
+#### Building With Appsody For Consistent Results
 
 What is Appsody
 
