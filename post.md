@@ -12,10 +12,13 @@ Here is a collection of code patterns, articles and tutorials that gently introd
 
 ##### Kabanero development technologies
 
-Cloud Paks for Applications is built on an open source foundational layer called 'Kabanero'. The technologies that Kabanero is composed of are accepted best in class cloud technologies, themselves all open source. You can see a graphical representation of a lot of the included technologies below:
+Cloud Paks for Applications is built on an open source foundational layer called [Kabanero](https://kabanero.io/). The technologies that Kabanero is composed of are accepted best in class cloud technologies, themselves all open source. You can see a graphical representation of many of the important technologies below:
 
 ![Kabanero Architecture](kabanero.png)
 
+One of the special ingredients in Kabanero is [Appsody](https://appsody.dev/) which creates a disciplined and consistent approach to developing apps within an enterprise organization. You can read more about Appsody below.
+
+Our approach to creating developer resources around Kabanero, and Cloud Paks for Apps is to focus on workflows using this cloud devops components - providing tutorials around them, and code patterns that can be cloned and explored as reference models. In our first collection of developer resources, we're sharing an Appsody code pattern that walks through the basics of creating a two microservice application - with presentation and business logic, as well as digging into approaches for using Appsody in your own projects.
 
 ##### Building With Appsody For Consistent Results
 
