@@ -40,4 +40,4 @@ Appsody goes even further than simplifying the use of pre-configured technologie
 
 Appsody stacks come with one of more templates. A template represents a starter application using that stack, and is already runnable and deployable. A developer can then take this template and modify it to build out their application.
 
-_would like to include a visual_
+![Appsody Architecture](appsody.png)
