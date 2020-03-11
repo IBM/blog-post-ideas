@@ -15,7 +15,7 @@ IBM Cloud is updating from OpenShift V 3.11 to [OpenShift V 4.3](https://docs.op
 
 #### New Dashboard
 
-If you're used to OpenShift 3.11, then you'll immediatly notice a visual refresh of the user interface. It is designed to be cleaner, and more organized - more focus, less noise.
+If you're used to OpenShift 3.11, then you'll immediatly notice a visual refresh of the user interface. It is designed to be cleaner, and more organized - more focus, less noise. RedHat even open source their design process, which I find inspiring. You can read more about the [design intentions of the dashboards](https://blog.openshift.com/openshift-4-3-dashboard-refinements-and-the-new-project-dashboard/), and even plug into the the [ongoing design process for OpenShift](https://www.patternfly.org/v4/). 
 
 Here's a screenshot of the dashboard for our 'Example Loyalty' app that we've developed to explore some of the new features of OpenShift 4.
 
