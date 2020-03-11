@@ -8,7 +8,7 @@ In this blog post I highlight some of the new features of OpenShift 4, and also 
 
 ### What's new in OpenShift V4?
 
-IBM Cloud is updating from OpenShift V 3.11 to OpenShift V 4.3. Now, OpenShift is even more packed with enterprise developer features, a few of which I'll highlight below:
+IBM Cloud is updating from OpenShift V 3.11 to [OpenShift V 4.3](https://docs.openshift.com/container-platform/4.3/release_notes/ocp-4-3-release-notes.html). Now, OpenShift is even more packed with enterprise developer features, a few of which I'll highlight below:
 
 
 ![Open Shift 4 Layers](./openshift4.png)
