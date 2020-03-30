@@ -1,4 +1,4 @@
-## Introductory Thoughts On Designing for Privacy and Security
+# Introductory Thoughts On Designing for Privacy and Security
 
 If data privacy and security were easy, instant, and immediate features to build into applications, then there would be no data breaches, or invasion of data privacy. 
 
@@ -114,22 +114,28 @@ GDPR or the General Data Protection Regulation, is a European Union regulation t
 
 Data can't be protected, unless is is secure, which is why I'm relating GDPR to security when thinking about [designing for privacy](https://gdpr-info.eu/issues/privacy-by-design/). Aside from the financial implications of GDPR, data breaches can leave actual human beings vulnerable to real world implications.
 
+To quote the GDPR Privacy By Design Text:
+
+
+_The term “Privacy by Design” means nothing more than “data protection through technology design.” Behind this is the thought that data protection in data processing procedures is best adhered to when it is already integrated in the technology when created._
+
 I really like the idea of stepping back when designing an app and trying to model not just the security threats to a software system, but the threats presented by the abuse of a person's personal data within the system. 
 
+In our Example Loyalty app, we built in some simulated UIs to show a few privacy concepts in action.
+
+![Example Loyalty App](./consent.png)
+
+The app itself is a simulated mobile app for registering, and logging attendance of technology events. In exchange, the attendee receives 'loyalty' points, that they can accumulate and spend on swag.
+
+![Right To Consent](./consent2.png)
+
+When the user creates an account they are checking a box to signal their [consent](https://gdpr-info.eu/issues/consent/).
+
+![Right To Consent](./management.png)
+
+In the account view they can [download](https://gdpr-info.eu/art-20-gdpr/), [delete](https://gdpr-info.eu/art-17-gdpr/), or [edit](https://gdpr-info.eu/art-16-gdpr/) their data 
 
 
+There are other aspects that we would need to make clear in our example UI for instance the [Right to Restriction of Processing](https://gdpr-info.eu/art-18-gdpr/) and the [Automated Individual Decision Making/Profile](https://gdpr-info.eu/art-22-gdpr/)
 
-
-
-[Right to Erasure](https://gdpr-info.eu/art-17-gdpr/)
-
-[Consent](https://gdpr-info.eu/issues/consent/)
-
-[Right to Data Portability](https://gdpr-info.eu/art-20-gdpr/)
-
-[Right to Restriction of Processing](https://gdpr-info.eu/art-18-gdpr/)
-
-[Right to Rectification](https://gdpr-info.eu/art-16-gdpr/)
-
-[Automated Individual Decision Making/Profile](https://gdpr-info.eu/art-22-gdpr/)
-
+It's important to design the APIs and controls for all of these aspects of data management, when creating your app. You can see how we created those APIs for Example Loyalty.
